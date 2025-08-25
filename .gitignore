@@ -1,0 +1,8 @@
+# Ignore large raw datasets
+matches_1930_2022.csv
+
+# But keep the cleaned dataset
+!Match_Analysis_cleaned.csv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
